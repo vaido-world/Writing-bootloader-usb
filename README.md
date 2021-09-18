@@ -10,3 +10,6 @@ https://github.com/libusb/libusb
 https://github.com/libusb/libusb/wiki  
 https://libusb.info   
      
+
+#### General usb notes
+https://wiki.osdev.org/Universal_Serial_Bus#Advanced_USB_Concepts
