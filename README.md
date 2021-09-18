@@ -13,14 +13,14 @@ https://libusb.sourceforge.io/api-1.0/libusb_api.html
      
 
 #### General USB notes
-https://wiki.osdev.org/Universal_Serial_Bus#Advanced_USB_Concepts
-https://stackoverflow.com/a/2981927/3789797
+https://wiki.osdev.org/Universal_Serial_Bus#Advanced_USB_Concepts  
+https://stackoverflow.com/a/2981927/3789797  
 
 
 #### General MBR notes 
 http://thestarman.narod.ru/asm/mbr/W7MBR.htm  
 https://github.com/egormkn/mbr-boot-manager/blob/master/windows.asm   
 http://www.dewassoc.com/kbase/hard_drives/master_boot_record.htm   
-https://www.win.tue.nl/~aeb/partitions/partition_tables-2.html
-https://stackoverflow.com/a/40205/3789797
+https://www.win.tue.nl/~aeb/partitions/partition_tables-2.html  
+https://stackoverflow.com/a/40205/3789797  
 
