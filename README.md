@@ -11,5 +11,9 @@ https://github.com/libusb/libusb/wiki
 https://libusb.info   
      
 
-#### General usb notes
+#### General USB notes
 https://wiki.osdev.org/Universal_Serial_Bus#Advanced_USB_Concepts
+
+
+#### General MBR notes 
+http://thestarman.narod.ru/asm/mbr/W7MBR.htm
