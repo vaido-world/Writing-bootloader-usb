@@ -16,6 +16,7 @@ https://wiki.osdev.org/Universal_Serial_Bus#Advanced_USB_Concepts
 
 
 #### General MBR notes 
-http://thestarman.narod.ru/asm/mbr/W7MBR.htm
-https://github.com/egormkn/mbr-boot-manager/blob/master/windows.asm
-http://www.dewassoc.com/kbase/hard_drives/master_boot_record.htm
+http://thestarman.narod.ru/asm/mbr/W7MBR.htm  
+https://github.com/egormkn/mbr-boot-manager/blob/master/windows.asm   
+http://www.dewassoc.com/kbase/hard_drives/master_boot_record.htm   
+https://www.win.tue.nl/~aeb/partitions/partition_tables-2.html
